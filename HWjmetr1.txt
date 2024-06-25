@@ -1,0 +1,15 @@
+Summary Report
+1.HTTP Request get
+All tests are fault 
+Size Assertion size in bite 200 - response more (approximately 28639)
+2. HTTP Request post
+All test are ok
+all assertions is as required 
+3. HTTP Request put
+that tests fault that Load time was more than 200 but Duration Assertion was 200
+4. HTTP Request patch
+All test are ok
+all assertions is as required 
+5. HTTP Request delete
+All tests are fault 
+tests fault because of Load time was more than 100 but Duration Assertion was 100
